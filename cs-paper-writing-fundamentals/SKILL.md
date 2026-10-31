@@ -1,6 +1,6 @@
 ---
 name: cs-paper-writing-fundamentals
-description: Write or revise computer science and robotics papers using the core principles of Zobel's Writing for Computer Science: clarity, claim support, structure, style, math, figures and experiments.
+description: "Write or revise computer science and robotics papers using the core principles of Zobel's Writing for Computer Science: clarity, claim support, structure, style, math, figures and experiments."
 ---
 
 # CS Paper Writing Fundamentals
